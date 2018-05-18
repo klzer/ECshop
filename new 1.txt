@@ -1,0 +1,75 @@
+5月 明确主要需要实现的功能，确定相应的功能流程（商品发布流程，内容编辑角色划分及流程设置，商城退货规则及流程，物流信息对接，积分规则、新人奖励等基本会员功能的范围，在线IM人员确定，网站声明、常见问题等内容准备）
+6月 后台调整及开发， h5\app开工
+7月 接口对接及测试 
+8月 全面测试，业务UAT验收及调研，功能调整（需求补差）
+9月 试运营，功能微调，十一活动准备期
+
+
+Bizpower多用户商城系统演示站地址：
+ShopNC bizpower
+	商城首页:http://java.bizpower.com/web/
+	平台后台:http://java.bizpower.com/admin/
+	商家管理中心:http://java.bizpower.com/seller/
+	门店管理中心：http://java.bizpower.com/chain/
+	分销市场：http://java.bizpower.com/web/distribution
+	手机浏览器版:http://java.bizpower.com/wap/
+
+	买家用户名:hbjbuyer	密码:bizpower2018
+	买家用户名:zxybuyer	密码:bizpower2018
+	买家用户名:shopnc_lhf	密码:bizpower2018
+	后台用户名:admin	密码:bizpower2018
+	自营店铺用户名:shopnc_hbj	密码:bizpower2018
+	第三方店用户名:shopnc_lhf	密码:bizpower2018
+	批发店铺用户名:shopnc_cj01	密码:bizpower2018
+	门店用户名：chain_xzld          密码:bizpower2018
+
+javashop:
+	前台：http://www.javamall.com.cn/b2c/index.html
+
+	后台：http://www.javamall.com.cn/b2c/admin/login.do
+	账号密码：admin/admin
+
+shop++
+	前台: http://b2c.demo.shopxx.net 
+	后台: http://b2c.demo.shopxx.net/admin 
+	账户：admin  密码：admin888
+
+shopJsp前后台演示：
+    后台地址： backb2b2c.shopjsp.com
+	演示高级用户：hyyt   密码：HYYT6688..
+	前台：b2b2c.shopjsp.com
+	供应商用户：shop_ceshi    密码：123456
+	消费者用户：shopjsp001    密码：123456 
+
+	
+全网
+	
+	前台地址
+	http://shop.qwang.com.cn
+	会员账户：13581912526
+	密码：111111
+
+	后台地址
+	http://shop.qwang.com.cn/admin/toLogin
+	账户：http://shop.qwang.com.cn/
+	密码：123456
+
+	商户地址
+	http://shop.qwang.com.cn/store/toLogin
+	账户：qwcs
+	密码：111111
+
+廖丹
+
+	前台 http://testwww.iyanshu.cn       账号 qianmi/qianmi520
+	后台 http://testboss2.iyanshu.cn/    账号 qmbbc/qianmi520
+	商家 http://testthird2.iyanshu.cn/   账号 qmtest1/qmtest1
+
+雷铭http://www.leimingtech.com/
+	http://47.95.34.92:8080/leimingtech-admin  账号：admin   密码：123456
+	http://47.95.34.92:8080/leimingtech-seller   账号：gyh99   密码：123456
+	http://47.95.34.92:8080/leimingtech-front        账号：gyh99   密码：123456
+	
+茅以商城
+http://www.javamall.com.cn/b2c/
+http://www.javamall.com.cn/b2c/admin/main.do   admin admin
